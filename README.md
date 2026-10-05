@@ -16,7 +16,6 @@ Computer Engineering graduate from Yarmouk University and Full-Stack Developer w
 - 📱 **Mobile Focus:** Crafting cross-platform mobile apps with **Flutter & Dart** and **Firebase**.
 - 💻 **Frontend Focus:** Designing dynamic, responsive web interfaces using **HTML5, CSS3, JavaScript (ES6+), and Bootstrap**.
 - 🗄️ **Database Design:** Architecting relational databases with **PostgreSQL (PL/pgSQL)** and **SQL Server**.
-- 🏢 **Organization:** Founder / Lead Developer at **BADEX JO**.
 
 ---
 
